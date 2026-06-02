@@ -1,0 +1,13 @@
+{
+  "name": "optimize-product-catalog-listing",
+  "version": "1.0.0",
+  "description": "Product catalog listing optimization task starter",
+  "type": "module",
+  "scripts": {
+    "lint": "echo \"no lint command defined\"",
+    "test": "echo \"no tests defined\""
+  },
+  "keywords": ["javascript", "catalog", "frontend", "assessment"],
+  "author": "",
+  "license": "MIT"
+}
